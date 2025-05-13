@@ -7,7 +7,7 @@ Cat images are not mine, they are a free asset which can be found "https://craft
 
 What it does:
 
-Places a cat on a small platform in the bottom right corner of a webpage. It will run left and right based on the scroll.
+Places a pixel art cat on a small platform in the bottom right corner of a webpage. It will run left and right based on the scroll.
 It also dynamically changes size based on window size. Finally, there is actually two cats, with a 90% chance of having one over the other.
 
 
